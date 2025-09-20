@@ -3,15 +3,20 @@ Machine Learning Project on Resume Screening using Python.
 This repository contains a machine learning project focused on automating the resume screening process using Python. The primary goal is to develop a model that can efficiently and accurately evaluate resumes based on predefined criteria.
 
 Why do we need Resume Screening?
+
 For each recruitment, companies take out the resume, referrals and go through them manually.
 Companies often received thousands of resumes for every job posting.
 When companies collect resumes then they categorize those resumes according to their requirements and then they send the collected resumes to the Hiring Teams.
 It becomes very difficult for the hiring teams to read the resume and select the resume according to the requirement, there is no problem if there are one or two resumes but it is very difficult in case of hundreds of resumes.
 To solve this problem, we will screen the resume using machine learning and NLP using Python so that we can complete days of work in few minutes.
 Introduction
+
+
 Resume screening is the process of determining whether a candidate is qualified for a role based on their education, experience, and other information captured on their resume.
 It’s a form of pattern matching between a job’s requirements and the qualifications of a candidate based on their resume.
 The goal of screening resumes is to decide whether to move a candidate forward – usually onto an interview – or to reject them.
+
+
 Modules & Libraries
 Modules
 KNN: It's a supervised technique used for classification. "K" in KNN represents the number of nearest neighbors used to classify or predict in case of continuous variables.
@@ -60,8 +65,8 @@ Contributing Contributions are welcome! If you have suggestions for improvements
 
 License This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact For any questions or inquiries, please contact:
+Contact For any questions or inquiries, please contact:sandhya rani
 
-Anukalp Mishra
+
 
 GitHub: anukalp-mishra
